@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 #import "AFNetworkActivityIndicatorManager.h"
+#import "UIKit/UIKit.h"
 
 @interface AFNetworkActivityIndicatorManager ()
 @property (readwrite, nonatomic, assign) NSInteger activityCount;

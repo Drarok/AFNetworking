@@ -21,6 +21,8 @@
 // THE SOFTWARE.
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
 #import "AFHTTPRequestOperation.h"
 
 #import "NSMutableURLRequest+AFNetworking.h"
